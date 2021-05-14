@@ -1,0 +1,19 @@
+name: HMM
+channels:
+  - defaults
+dependencies:
+  - jupyterlab==3
+  - numpy
+  - nilearn
+  - brainiak
+  - matplotlib
+  - nibabel
+  - scipy
+  - deepdish
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - ipykernel
+  - nodejs
+  - statsmodels
+  - flake8
